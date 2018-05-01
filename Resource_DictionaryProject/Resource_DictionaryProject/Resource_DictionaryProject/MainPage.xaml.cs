@@ -12,6 +12,9 @@ namespace Resource_DictionaryProject
 		public MainPage()
 		{
 			InitializeComponent();
+
+
+
 		}
 	}
 }
